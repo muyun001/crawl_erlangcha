@@ -1,0 +1,6 @@
+*.xml
+/.idea
+build
+dist
+*.spec
+*.pyc
